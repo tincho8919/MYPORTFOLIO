@@ -412,6 +412,7 @@ width: 100px;
 }
 .footer{
     background-color: darkgray;
+    margin-left: -50px;
 }
 
 .copy{
@@ -450,6 +451,7 @@ width: 100px;
 .linkedin{
     color: darkblue;
 }
+
 .card{
     display: flex;
     flex-direction: column;
